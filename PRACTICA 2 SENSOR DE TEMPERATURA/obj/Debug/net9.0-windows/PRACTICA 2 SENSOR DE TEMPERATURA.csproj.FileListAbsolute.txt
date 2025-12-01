@@ -1,0 +1,38 @@
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.exe
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.deps.json
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.runtimeconfig.json
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.dll
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.pdb
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\System.IO.Ports.dll
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\System.IO.Ports.dll
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.IO.Ports.dll
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.csproj.AssemblyReference.cache
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA_2_SENSOR_DE_TEMPERATURA.Form1.resources
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA_2_SENSOR_DE_TEMPERATURA.Properties.Resources.resources
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.csproj.GenerateResource.cache
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.AssemblyInfoInputs.cache
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.AssemblyInfo.cs
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA.DA93531B.Up2Date
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.dll
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\refint\PRACTICA 2 SENSOR DE TEMPERATURA.dll
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.pdb
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\PRACTICA 2 SENSOR DE TEMPERATURA.genruntimeconfig.cache
+C:\Users\karen\source\repos\PRACTICA 2 SENSOR DE TEMPERATURA\obj\Debug\net9.0-windows\ref\PRACTICA 2 SENSOR DE TEMPERATURA.dll
