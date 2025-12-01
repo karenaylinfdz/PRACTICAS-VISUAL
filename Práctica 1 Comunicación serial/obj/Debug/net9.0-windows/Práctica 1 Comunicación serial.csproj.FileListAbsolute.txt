@@ -1,0 +1,38 @@
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\Práctica 1 Comunicación serial.exe
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\Práctica 1 Comunicación serial.deps.json
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\Práctica 1 Comunicación serial.runtimeconfig.json
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\Práctica 1 Comunicación serial.dll
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\Práctica 1 Comunicación serial.pdb
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\System.IO.Ports.dll
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\System.IO.Ports.dll
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.IO.Ports.dll
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.csproj.AssemblyReference.cache
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica_1_Comunicación_serial.Form1.resources
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica_1_Comunicación_serial.Properties.Resources.resources
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.csproj.GenerateResource.cache
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.AssemblyInfoInputs.cache
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.AssemblyInfo.cs
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Pr_ctica.816C2C54.Up2Date
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.dll
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\refint\Práctica 1 Comunicación serial.dll
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.pdb
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\Práctica 1 Comunicación serial.genruntimeconfig.cache
+C:\Users\karen\source\repos\Práctica 1 Comunicación serial\obj\Debug\net9.0-windows\ref\Práctica 1 Comunicación serial.dll
